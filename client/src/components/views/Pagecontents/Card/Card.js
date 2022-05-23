@@ -1,6 +1,7 @@
 import React from 'react'
 import "./Card.css"
 import img from "../../../assets/알약.jpg";
+import view from "../../../assets/풍경.jpg";
 
 const Card = () => {
   return (
@@ -20,7 +21,7 @@ const Card = () => {
                 </ul> 
                 <ul>
                     <li>
-                        <img src={img} alt="영양제추천"/>
+                        <img src={view} alt="영양제추천"/>
                         <p>
                             "360명의 의료진이 검증한"
                         </p>
