@@ -31,13 +31,9 @@ function LandingPage() {
           <br/><br/>
           <Card/>
           <br/>
-          
-      
           <Slider2/>
           <Slider3/>
           <Slider4/>
-    
-    
           <br/>
       
         </div>

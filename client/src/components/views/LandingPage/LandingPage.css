@@ -20,6 +20,11 @@ hr{
  
 }
 
+.mm-style a{
+    color : black;
+    text-decoration-line: none;
+}
+
 
 .mini-menu{
     display: flex;
